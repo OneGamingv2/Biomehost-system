@@ -25,3 +25,6 @@
 
 # U WILL NEED TO INSTALL 
 # YT-DLP
+
+# DOWNLOAD THE LATEST FILE FROM HERE
+https://github.com/OneGamingv2/Biomehost-system/blob/main/discord%20Bot.zip
