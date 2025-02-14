@@ -22,3 +22,6 @@
 /welcomemessage - Set the welcome message
 /listguilds - List all guilds the bot is in and DM them the list
 /guildinvite - Generate an invite for a guild by server ID
+
+# U WILL NEED TO INSTALL 
+# YT-DLP
